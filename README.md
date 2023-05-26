@@ -4,11 +4,15 @@ In this repository you can find 12 solved and simple exercises carried out throu
 The exercises are taken from a document sent by the teacher.
 ## Table of contents
 
--[Main.py](https://github.com/NathhRangel4113/Conditionals-Python-Fundamentals-2#python-fundamentals-2)
--[Exercises](https://github.com/NathhRangel4113/Conditionals-Python-Fundamentals-2#python-fundamentals-2)
--[Structure](https://github.com/NathhRangel4113/Conditionals-Python-Fundamentals-2#python-fundamentals-2)
--[Defining](https://github.com/NathhRangel4113/Conditionals-Python-Fundamentals-2#python-fundamentals-2)
--[Running](https://github.com/NathhRangel4113/Conditionals-Python-Fundamentals-2#python-fundamentals-2)
+-[Main.py](https://github.com/NathhRangel4113/Cycles-Python-Fundamentals-3#mainpy)
+
+-[Exercises](https://github.com/NathhRangel4113/Cycles-Python-Fundamentals-3#exercises)
+
+-[Structure](https://github.com/NathhRangel4113/Cycles-Python-Fundamentals-3#structure)
+
+-[Defining](https://github.com/NathhRangel4113/Cycles-Python-Fundamentals-3#defining)
+
+-[Running](https://github.com/NathhRangel4113/Cycles-Python-Fundamentals-3#running)
 
 ## Main.py
 In order to get started, it is important to clarify the order in which the exercises would be performed. For this, a main document "1.0_main.py" was established, in which you can find the function to execute the document with the exercise you want only taking into account the number of each one.
