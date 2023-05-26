@@ -1,5 +1,5 @@
 ## Cycles-Python-Fundamentals-3
-In this repository you can find 12 solved and simple exercises carried out through `<link>` : <https://replit.com/~> which are made using the Python programming language.
+In this repository you can find 15 solved and simple exercises carried out through `<link>` : <https://replit.com/~> which are made using the Python programming language.
 
 The exercises are taken from a document sent by the teacher.
 ## Table of contents
